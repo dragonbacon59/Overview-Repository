@@ -1,2 +1,2 @@
 # Overview-Repository
-A repo for CS/IS Overview
+Repo for demonstrating the basics of git
